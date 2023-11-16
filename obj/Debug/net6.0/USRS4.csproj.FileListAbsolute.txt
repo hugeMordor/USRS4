@@ -1,0 +1,15 @@
+C:\Users\hugeMordor\Documents\CS_LAB\USRS4\bin\Debug\net6.0\USRS4.exe
+C:\Users\hugeMordor\Documents\CS_LAB\USRS4\bin\Debug\net6.0\USRS4.deps.json
+C:\Users\hugeMordor\Documents\CS_LAB\USRS4\bin\Debug\net6.0\USRS4.runtimeconfig.json
+C:\Users\hugeMordor\Documents\CS_LAB\USRS4\bin\Debug\net6.0\USRS4.dll
+C:\Users\hugeMordor\Documents\CS_LAB\USRS4\bin\Debug\net6.0\USRS4.pdb
+C:\Users\hugeMordor\Documents\CS_LAB\USRS4\obj\Debug\net6.0\USRS4.csproj.AssemblyReference.cache
+C:\Users\hugeMordor\Documents\CS_LAB\USRS4\obj\Debug\net6.0\USRS4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugeMordor\Documents\CS_LAB\USRS4\obj\Debug\net6.0\USRS4.AssemblyInfoInputs.cache
+C:\Users\hugeMordor\Documents\CS_LAB\USRS4\obj\Debug\net6.0\USRS4.AssemblyInfo.cs
+C:\Users\hugeMordor\Documents\CS_LAB\USRS4\obj\Debug\net6.0\USRS4.csproj.CoreCompileInputs.cache
+C:\Users\hugeMordor\Documents\CS_LAB\USRS4\obj\Debug\net6.0\USRS4.dll
+C:\Users\hugeMordor\Documents\CS_LAB\USRS4\obj\Debug\net6.0\refint\USRS4.dll
+C:\Users\hugeMordor\Documents\CS_LAB\USRS4\obj\Debug\net6.0\USRS4.pdb
+C:\Users\hugeMordor\Documents\CS_LAB\USRS4\obj\Debug\net6.0\USRS4.genruntimeconfig.cache
+C:\Users\hugeMordor\Documents\CS_LAB\USRS4\obj\Debug\net6.0\ref\USRS4.dll
